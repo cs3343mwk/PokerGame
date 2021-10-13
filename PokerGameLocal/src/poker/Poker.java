@@ -33,6 +33,7 @@ public class Poker {
 			return true;
 		else
 			return false;
+	// condition to fix the bug
 	}
 	public boolean isFour(String cards[], int n) {
 		for (int i=0; i<n-3; i++) {
