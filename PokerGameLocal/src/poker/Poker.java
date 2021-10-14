@@ -52,6 +52,7 @@ public class Poker {
 		System.out.println(new Poker().isFullHouse(new String[] {"C2", "D2", "H2", "S3", "S4"}, 5));
 		System.out.println(new Poker().isFullHouse(new String[] {"C2", "D2", "H2", "S3", "S4"}, 5));
 		System.out.println(new Poker().isFullHouse(new String[] {"C2", "D2", "H2", "S3", "S4"}, 5));
+		System.out.println(new Poker().isFullHouse(new String[] {"C2", "D2", "H2", "S3", "C3"}, 5));
 	}
 }
 // end of Poker.java
